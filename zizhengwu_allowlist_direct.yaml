@@ -1,7 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,m-team.io
   - DOMAIN-SUFFIX,m-team.cc
-  - GEOSITE,category-games@cn,DIRECT
-  - DOMAIN-SUFFIX,steamserver.net,DIRECT
-  - DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
-  - IP-ASN,32590,DIRECT
+  - GEOSITE,category-games@cn
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - IP-ASN,32590
