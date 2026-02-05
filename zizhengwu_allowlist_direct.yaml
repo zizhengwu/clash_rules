@@ -7,4 +7,3 @@ payload:
   - IP-ASN,32590
   - DOMAIN-SUFFIX,usvisascheduling.com
   - DOMAIN-SUFFIX,b2clogin.com
-  - IP-CIDR,192.168.50.1/24
