@@ -1,3 +1,4 @@
 payload:
   - DOMAIN,music.apple.com
   - DOMAIN,fonts.googleapis.com
+  - DOMAIN,www.gstatic.com
